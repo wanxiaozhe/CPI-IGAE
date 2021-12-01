@@ -24,7 +24,7 @@ $ python outtest.py --outtest xxx
 ```
 optional arguments:
   -h, --help            show this help message and exit
-  --batch_size		  default is 512
+  --batch_size		 default is 512
   --device              which cuda device to use (-1 for cpu training)
   						default is 0, cpu is not recommended due to to cpu 
   						due to the long runing time
