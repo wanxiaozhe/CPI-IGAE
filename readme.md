@@ -4,10 +4,6 @@
 
 If you don't have conda installed, please install it following the instructions [here](https://conda.io/projects/conda/en/latest/user-guide/install/index.html).
 
-```git clone https://github.com/psyche11/CPI-IGAE```
-
-```cd hgcn```
-
 ```conda env create -f environment.yml```
 
 ### Datasets
