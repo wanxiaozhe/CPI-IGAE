@@ -1,5 +1,5 @@
 # An inductive graph neural network model for compound-protein interaction prediction based on a homogeneous graph.
----
+
 ### Installation with conda
 
 If you don't have conda installed, please install it following the instructions [here](https://conda.io/projects/conda/en/latest/user-guide/install/index.html).
